@@ -13,7 +13,7 @@
 
 Make a file called .gitconfig in your home directory and put in your name and e-mail like this:
 
-```config
+```ini
 [user]
 	name = Your Name
 	email = your.email@example.com
@@ -37,7 +37,7 @@ Make a file called .gitconfig in your home directory and put in your name and e-
 You can use aliases to make typing the commands shorter. Here are some example
 aliases and settings. You can use them by putting them in your `.gitconfig`:
 
-```config
+```ini
 [push]
 	default = matching
 
