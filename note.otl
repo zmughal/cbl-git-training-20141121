@@ -2,3 +2,8 @@ http://try.github.io/
 http://pcottle.github.io/learnGitBranching/
 http://rypress.com/tutorials/git/
 http://www.git-scm.com/book
+
+git lg --color-words
+
+http://homepages.inf.ed.ac.uk/imurray2/compnotes/cwdiff/
+http://idnotfound.wordpress.com/2009/05/09/word-by-word-diffs-in-git/
